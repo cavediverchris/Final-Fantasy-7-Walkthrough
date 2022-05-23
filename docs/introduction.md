@@ -3,13 +3,13 @@
 ## Controls
 Final Fantasy 7 was originally released on the Sony Playstation and has been built around the Sony Playstation controller, this is what we will use as the basis for describing the controls.
 
-![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.jpg) Circle Button
+![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) Circle Button
 
-![Sony Play Station Square Button](/general-assets/sony-playstation-square.jpg) Square Button
+![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) Square Button
 
-![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.jpg) Cross Button
+![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) Cross Button
 
-![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.jpg) Triangle Button
+![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) Triangle Button
 
 ![Sony Play Station Left Button](/general-assets/sony-playstation-left.jpg) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.jpg) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.jpg) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.jpg) D-pad. This is the pad that controls direction, the four directions are up, down, left and right.
 
