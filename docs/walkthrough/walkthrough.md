@@ -1,3 +1,3 @@
 # Walkthrough
 
-1. [Template Story Guide Section](/emplate-story-guide.md)
+1. [Template Story Guide Section](/docs/template-story-guide.md)
