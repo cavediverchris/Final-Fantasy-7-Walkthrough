@@ -23,7 +23,7 @@ You can find the following item(s) here:
 
 Disembarking the train in pursuit of your leader, use the D-pad whilst also pressing the CROSS button so that you can run up the platform. You will see the disabled security guards on the floor, search them twice in order to find two Potions.
 
-As you move up the platform you will meet a pair of security guards that have come to investigate the commotion caused on the platform where you will be thrust into your first battle. In this battle you find yourself alone against a pair of guards. Press the CIRCLE button to select the ATTACK commmand, then press it again to confirm the target as one of the guards. Each attack will take out one of the guards.
+As you move up the platform you will meet a pair of security guards that have come to investigate the commotion caused on the platform where you will be thrust into your first battle. In this battle you find yourself alone against a pair of guards. Press the ![alt text](../../general-assets/sony-playstation-circle.jpg "Text") button to select the ATTACK commmand, then press it again to confirm the target as one of the guards. Each attack will take out one of the guards.
 
 After successfully completing any battle, you will be awarded some experience (EXP) for your characters, some ability points (AP) for your materia, some gil and possibly some items.
 
