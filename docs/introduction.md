@@ -3,7 +3,7 @@
 ## Controls
 Final Fantasy 7 was originally released on the Sony Playstation and has been built around the Sony Playstation controller, this is what we will use as the basis for describing the controls.
 
-![Sony Play Station Circle Button](Final-Fantasy-7-Walkthrough/docs/general-assets/sony-playstation-circle.jpg) Circle Button
+![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.jpg) Circle Button
 
 ![Sony Play Station Square Button](/general-assets/sony-playstation-square.jpg) Square Button
 
@@ -11,19 +11,19 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.jpg) Triangle Button
 
-* TO BE INSERTED * D-pad. This is the pad that controls direction, the four directions are up, down, left and right.
+![Sony Play Station Left Button](/general-assets/sony-playstation-left.jpg) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.jpg) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.jpg) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.jpg) D-pad. This is the pad that controls direction, the four directions are up, down, left and right.
 
-* TO BE INSERTED * SELECT button.
+![Sony Play Station Selet Button](/general-assets/sony-playstation-select.png) SELECT button.
 
-* TO BE INSERTED * START button.
+![Sony Play Station Start Button](/general-assets/sony-playstation-start.png) START button.
 
-* TO BE INSERTED * L1 Button.
+![Sony Play Station L1 Button](/general-assets/sony-playstation-L1.png)  L1 Button.
 
-* TO BE INSERTED * L2 Button
+![Sony Play Station L2 Button](/general-assets/sony-playstation-L1.png)  L2 Button
 
-* TO BE INSERTED * R1 Button.
+![Sony Play Station R1 Button](/general-assets/sony-playstation-R1.png)  R1 Button.
 
-* TO BE INSERTED * R2 Button
+![Sony Play Station R2 Button](/general-assets/sony-playstation-R1.png)  R2 Button
 
 ### Normal Play
 
