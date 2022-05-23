@@ -45,8 +45,84 @@ Go north and talk to Biggs (the guy on the left). During the conversation, name 
 
 You are now on a catwalk high above the ground. When you come to a T-shaped junction, go north, into the reactor. 
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_01.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
 
+Talk to Barret, and he joins your party.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+There are two places that each party member can stand in during a battle, the front row, closest to the enemy, or the back row, further away. When a character is on the back row, they will receive less physical damage when attacked, but also cannot deal out as much damage. This is unless they have a long-range weapon! This means that they can dish out the pain whilst receiving much less in return! Barret fortunately does have a long-range weapon, so shuffle him onto the back row.
+
+
+To do this, open the menu, choose Order, and then select Barret and select him again. This will swap the row he is on. Move him onto the back row (towards the right hand side of the screen).
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Next, talk to Biggs (on the left) to open the door. Run through, and then talk to Jessie to open the next door. Before you enter the elevator search to the right for a chest with a Phoenix Down. Now talk to Jessie and enter the elevator.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Use the elevator to go down to the next level. While the elevator is going down, Barret explains a little more about the mission: the Mako reactors are using the valuable resources of the planet which will end up killing the planet one day! Cloud is rather ambivalent which serves to wind Barret up.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Exit the elevator into a large room with stairs. Take the stairs down and right, then down and left, until you reach the ground.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Enter the door directly in front of you. Walk up to the gap to jump over it, and talk to Jessie. She explains how to use ladders.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+
+Climb down, and then run towards Jessie. See the flickering blue thing by her feet? It's a Potion. Get it. Now run down the ladder on the right, and climb down the ladder next to the platform. Run down the pipe to the next screen.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Run down the pipes over the ladder on the wall. Here you encounter your first save point. Save your game. I suggest that you train your characters on this pipe heading over to the right side of the screen until your characters are level 7. If you can also get both characters’ limit break gauge full that would be perfect, but as close as possible to full will be good enough. Run down the walkway to the next area.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+
+Run up to the green dot on the ground. Pick it up; it's Restore Materia. You won't be able to use it until later.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
+
+|   |   |
+|---|---|
+| Name  | Guard Scorpion  |
+| HP  | 800  |
+| MP  | ??  |
+| Level  | ??  |
+| Strengths  | None  |
+| Weaknesses  | Lightning  |
+
+If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
+
+
+The Guard Scorpion, being a robot, is susceptible to lightning. Have Cloud use Bolt repeatedly, while Barret attacks. Using this combination you should get around five rounds off attacks in.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+When it raises its tail above its head, stop attacking, and cure with Potions if your HP is below 120 HP.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Your attack pattern now needs to change. Have Cloud to use Bolt the boss will then counter with its Tail Laser which will do around 100 HP’s of damage to anyone on the front row, whereas because Barret is on the back row he will only take around 50 HP’s. Have Barret use a Potion if either person’s health drops below 100 HP. What this attack will do for both characters is massively boost your limit gauges.
+
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Limit breaks are powerful attacks, certainly worth using, but make sure that you can survive the counter attack - if not heal up using a potion.
+
+| Rewards  |   |   |   |
+|---|---|---|---|
+| EXP  | AP  | Gil  | Item(s)  |
+| 100  | 10  | 100  | Assault Gun  |
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
 ## Navigation
 [Previous chapter](/chapter_01.md) / [Next chapter](/chapter_03.md)
