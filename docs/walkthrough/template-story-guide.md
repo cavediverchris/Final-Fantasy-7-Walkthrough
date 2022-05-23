@@ -22,4 +22,4 @@ You can find the following item(s) here:
 You disembark the train.
 
 ## Navigation
-(Previous chapter)[/chapter_01.md] / (Next chapter) [/chapter_03.md]
+[Previous chapter](/chapter_01.md) / [Next chapter](/chapter_03.md)
