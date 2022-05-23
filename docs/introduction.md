@@ -11,7 +11,7 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) Triangle Button
 
-![Sony Play Station Left Button](/general-assets/sony-playstation-left.jpg) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.jpg) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.jpg) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.jpg) D-pad. This is the pad that controls direction, the four directions are up, down, left and right.
+![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) D-pad. This is the pad that controls direction, the four directions are up, down, left and right.
 
 ![Sony Play Station Selet Button](/general-assets/sony-playstation-select.png) SELECT button.
 
