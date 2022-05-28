@@ -5,6 +5,10 @@
 
 The Midgar express train has travelled around Midgar on its daily route. Arriving at the Train Station for the Sector 7 Reactor, among the usual hustle and bustle of passengers, a team disembarks with a purpose....
 
+## About this area
+
+Midgar, the giant metropolis city ran by the Shinra and powered by Mako reactors.
+
 ## Enemies encountered here
 
 - Enemy A
@@ -124,5 +128,16 @@ Limit breaks are powerful attacks, certainly worth using, but make sure that you
 
 ![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
+You now have 10 minutes to escape the reactor before it explodes, the first thing to do is equip the Assault Gun on Barret - with its higher damage it will help you kill off enemies quicker.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+Run back to where you last saw Jessie on the pipes. Her leg is stuck, help her free it. Now you have to run back to the entrance, so re-trace your steps.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch01_04.jpg) 
+
+When you reach the entrance talk to Jessie, then Biggs, to open both doors. Just before you exit this area, you can raise your experience by fighting enemies until the timer is low, but not so low that you can't leave the area before the reactor explodes! 
+
+
 ## Navigation
-[Previous chapter](/chapter_01.md) / [Next chapter](/chapter_03.md)
+[Previous chapter - TBD](/chapter_01.md) / [Next chapter - Sector 7 Slums](/chapter_03.md)
