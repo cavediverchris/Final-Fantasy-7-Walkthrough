@@ -33,15 +33,15 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Speak / Execute   |
 | ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) | Run |
 | ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) | Menu |
-| L1 | Turn left |
-| R1 | Turn right |
-| Select | Position cursor on / off |
+| ![Sony Play Station L1 Button](/general-assets/sony-playstation-L1.png)  | Turn left |
+| ![Sony Play Station R1 Button](/general-assets/sony-playstation-R1.png)  | Turn right |
+| ![Sony Play Station Selet Button](/general-assets/sony-playstation-select.png) | Position cursor on / off |
 
 ### Battle
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Up |  Movement |
+| ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Movement |
 | Down |  Movement |
 | Left |  Change order |
 | Right |  Defend |
@@ -51,7 +51,7 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 | ![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) | Hide command menu |
 | L2 | Toggle All Mode on / off |
 | R2 | Toggle Targetting Mode on / off |
-| Select | Information mode |
+| ![Sony Play Station Selet Button](/general-assets/sony-playstation-select.png) | Information mode |
 | Start | Pause |
 
 ### World Map
@@ -59,10 +59,6 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 | Button   |      Action   |
 |----------|:-------------:|
 | D![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Movement |
-| D-pad |  Movement |
-| D-pad |  Movement |
-| D-pad |  Movement |
-| D-pad |  Movement |
 
 ### Buggy
 
@@ -89,10 +85,10 @@ You can only float on light blue water and rivers. You can exit on beaches.
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Up |  Ascend |
+| ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Ascend |
 | Down |  Descend |
 | Left / Right |  Steer |
-| L1 / R1|  Steer hard |
+| ![Sony Play Station L1 Button](/general-assets/sony-playstation-L1.png)  / ![Sony Play Station R1 Button](/general-assets/sony-playstation-R1.png) |  Steer hard |
 | ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) |  Enter cockpit |
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Go forwards |
 | ![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) |  Fly sideways |
@@ -104,7 +100,7 @@ You can go anywhere in the air. You can only land on grass, and near the Forgott
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Up |  Descend |
+| ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Descend |
 | Down |  Ascend |
 | Left / Right |  Steer |
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Move forward |
@@ -121,9 +117,13 @@ Same controls as World Map, in addition:
 | ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Get off |
 
 Yellow Chocobo’s can only go on land.
+
 Blue Chocobo’s can only go on land and light blue water.
+
 Green Chocobo’s can only go on land and over mountains.
+
 Black Chocobo’s can go anywhere Blue ones and Green ones can.
+
 Gold Chocobo’s can go anywhere Black ones can, and on any water. 
 
 
