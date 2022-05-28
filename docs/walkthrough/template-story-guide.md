@@ -25,7 +25,7 @@ You can find the following item(s) here:
 
 ## Guide
 
-Disembarking the train in pursuit of your leader, use the D-pad whilst also pressing the ![Sony Play Station Cross Button](/Final-Fantasy-7-Walkthrough/docs/general-assets/sony-playstation-cross.png)) button so that you can run up the platform. You will see the disabled security guards on the floor, search them by pressing the ![Sony Play Station Circle Button]([https://github.com/cavediverchris/Final-Fantasy-7-Walkthrough/blob/main/docs/general-assets/sony-playstation-circle.png]) button twice in order to find two Potions.
+Disembarking the train in pursuit of your leader, use the D-pad whilst also pressing the ![Sony Play Station Cross Button](../general-assets/sony-playstation-cross.png) button so that you can run up the platform. You will see the disabled security guards on the floor, search them by pressing the ![Sony Play Station Circle Button]([../general-assets/sony-playstation-circle.png]) button twice in order to find two Potions.
 
 ![Alt Text To Be Populated](../walkthrough-assets/ch01_01.jpg) 
 
