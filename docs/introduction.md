@@ -19,20 +19,20 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 ![Sony Play Station L1 Button](/general-assets/sony-playstation-L1.png)  L1 Button.
 
-![Sony Play Station L2 Button](/general-assets/sony-playstation-L1.png)  L2 Button
+![Sony Play Station L2 Button](/general-assets/sony-playstation-L2.png)  L2 Button
 
 ![Sony Play Station R1 Button](/general-assets/sony-playstation-R1.png)  R1 Button.
 
-![Sony Play Station R2 Button](/general-assets/sony-playstation-R1.png)  R2 Button
+![Sony Play Station R2 Button](/general-assets/sony-playstation-R2.png)  R2 Button
 
 ### Normal Play
 
 | Button   |      Action   |
 |----------|:-------------:|
-| D-pad |  Movement |
-| Circle |  Speak / Execute   |
-| Cross | Run |
-| Triangle | Menu |
+| ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png)|  Movement |
+| ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Speak / Execute   |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) | Run |
+| ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) | Menu |
 | L1 | Turn left |
 | R1 | Turn right |
 | Select | Position cursor on / off |
@@ -41,14 +41,14 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 | Button   |      Action   |
 |----------|:-------------:|
-| D-pad |  Movement |
-| D-pad |  Movement |
+| Up |  Movement |
+| Down |  Movement |
 | Left |  Change order |
 | Right |  Defend |
-| Circle |  Select menu command   |
-| Cross | Cancel selection |
-| Triangle | Change active character |
-| Square | Hide command menu |
+| ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Select menu command   |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) | Cancel selection |
+| ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) | Change active character |
+| ![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) | Hide command menu |
 | L2 | Toggle All Mode on / off |
 | R2 | Toggle Targetting Mode on / off |
 | Select | Information mode |
@@ -58,7 +58,7 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 | Button   |      Action   |
 |----------|:-------------:|
-| D-pad |  Movement |
+| D![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Movement |
 | D-pad |  Movement |
 | D-pad |  Movement |
 | D-pad |  Movement |
@@ -70,7 +70,7 @@ Same controls as World Map, in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Cross |  Get out |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Get out |
 
 You can drive on dry land and shallow parts of rivers. You can even enter Costa del Sol and Junon by buggy, by hitching a ride on the 'Cargo Ship'. 
 
@@ -81,7 +81,7 @@ Same controls as World Map, in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Cross |  Get out |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Get out |
 
 You can only float on light blue water and rivers. You can exit on beaches. 
 
@@ -93,10 +93,10 @@ You can only float on light blue water and rivers. You can exit on beaches.
 | Down |  Descend |
 | Left / Right |  Steer |
 | L1 / R1|  Steer hard |
-| Triangle |  Enter cockpit |
-| Circle |  Go forwards |
-| Square |  Fly sideways |
-| Cross |  Land |
+| ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) |  Enter cockpit |
+| ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Go forwards |
+| ![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) |  Fly sideways |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Land |
 
 You can go anywhere in the air. You can only land on grass, and near the Forgotten City. 
 
@@ -107,8 +107,8 @@ You can go anywhere in the air. You can only land on grass, and near the Forgott
 | Up |  Descend |
 | Down |  Ascend |
 | Left / Right |  Steer |
-| Circle |  Move forward |
-| Cross |  Submerge / dive / get out |
+| ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Move forward |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Submerge / dive / get out |
 
 You can only go in dark blue water. You can only get out in bays. 
 
@@ -118,7 +118,7 @@ Same controls as World Map, in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
-| Cross |  Get off |
+| ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Get off |
 
 Yellow Chocobo’s can only go on land.
 Blue Chocobo’s can only go on land and light blue water.
