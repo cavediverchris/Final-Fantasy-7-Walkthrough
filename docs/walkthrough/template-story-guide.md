@@ -121,6 +121,8 @@ Your attack pattern now needs to change. Have Cloud to use Bolt the boss will th
 
 Limit breaks are powerful attacks, certainly worth using, but make sure that you can survive the counter attack - if not heal up using a potion.
 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_17.png) 
+
 | Rewards  |   |   |   |
 |---|---|---|---|
 | EXP  | AP  | Gil  | Item(s)  |
@@ -130,11 +132,11 @@ Limit breaks are powerful attacks, certainly worth using, but make sure that you
 
 You now have 10 minutes to escape the reactor before it explodes, the first thing to do is equip the Assault Gun on Barret - with its higher damage it will help you kill off enemies quicker.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_17.png) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_18.png) 
 
 Run back to where you last saw Jessie on the pipes. Her leg is stuck, help her free it. Now you have to run back to the entrance, so re-trace your steps.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_18.png) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_20.jpg) 
 
 When you reach the entrance talk to Jessie, then Biggs, to open both doors. Just before you exit this area, you can raise your experience by fighting enemies until the timer is low, but not so low that you can't leave the area before the reactor explodes! 
 
