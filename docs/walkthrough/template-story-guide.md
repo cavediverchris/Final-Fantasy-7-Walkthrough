@@ -60,7 +60,7 @@ There are two places that each party member can stand in during a battle, the fr
 
 To do this, open the menu, choose Order, and then select Barret and select him again. This will swap the row he is on. Move him onto the back row (towards the right hand side of the screen).
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_06.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_06.png) 
 
 Next, talk to Biggs (on the left) to open the door. Run through, and then talk to Jessie to open the next door. Before you enter the elevator search to the right for a chest with a Phoenix Down. Now talk to Jessie and enter the elevator.
 
@@ -108,16 +108,16 @@ If you have either (or both!) characters limits ready, use them, this will deal 
 
 The Guard Scorpion, being a robot, is susceptible to lightning. Have Cloud use Bolt repeatedly, while Barret attacks. Using this combination you should get around five rounds off attacks in.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_14.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_14.png) 
 
 When it raises its tail above its head, stop attacking, and cure with Potions if your HP is below 120 HP.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_15.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_15.png) 
 
 Your attack pattern now needs to change. Have Cloud to use Bolt the boss will then counter with its Tail Laser which will do around 100 HP’s of damage to anyone on the front row, whereas because Barret is on the back row he will only take around 50 HP’s. Have Barret use a Potion if either person’s health drops below 100 HP. What this attack will do for both characters is massively boost your limit gauges.
 
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_16.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_16.png) 
 
 Limit breaks are powerful attacks, certainly worth using, but make sure that you can survive the counter attack - if not heal up using a potion.
 
@@ -130,11 +130,11 @@ Limit breaks are powerful attacks, certainly worth using, but make sure that you
 
 You now have 10 minutes to escape the reactor before it explodes, the first thing to do is equip the Assault Gun on Barret - with its higher damage it will help you kill off enemies quicker.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_17.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_17.png) 
 
 Run back to where you last saw Jessie on the pipes. Her leg is stuck, help her free it. Now you have to run back to the entrance, so re-trace your steps.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_18.jpg) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_18.png) 
 
 When you reach the entrance talk to Jessie, then Biggs, to open both doors. Just before you exit this area, you can raise your experience by fighting enemies until the timer is low, but not so low that you can't leave the area before the reactor explodes! 
 
