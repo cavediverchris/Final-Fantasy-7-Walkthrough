@@ -1,4 +1,4 @@
-![Final Fantasy 7 logo](/general-asses/final-fantasy-7-logo.png)
+![Final Fantasy 7 logo](/general-assets/final-fantasy-7-logo.png)
 
 # Final Fantasy 7 Walkthrough and Story Guide
 
