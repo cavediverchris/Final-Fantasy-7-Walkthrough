@@ -341,7 +341,7 @@ Birthplace: Unknown
 Aeris was born secretly in the Icicle Village and was soon taken by Shinra to Midgar. Her and her mother escaped to the Sector 5 slums. There, Aeris lives with Elmyra in her house. The Turks kept trying to capture her as she was the last of the Cetra race and valuable to Shinra, but she kept eluding them. She is the best magic user in the game.
 
 ## Tifa Lockheart
-<img align="right" src="../docs/general-assets/cloud-strife.jpg">
+<img align="right" src="../docs/general-assets/tifa-lockheart.jpg">
 Occupation: Bar Hostess
 
 Age: 20
@@ -359,7 +359,7 @@ Bright and optimistic, Tifa always cheers up others when they're feeling down. D
 Tifa grew up with Cloud, they were close at times, but a lot of other boys were around her most of the time so they could never really get together. After Cloud left, Tifa became really sad and eventually left Nibelheim to go the Midgar. There she joined the group Avalanche and started up a bar called 7th Heaven in Sector 7.
 
 ## Barret Wallace
-<img align="right" src="https://cavediverchris.github.io/Final-Fantasy-7-Walkthrough/docs/general-assets/cloud-strife.jpg">
+<img align="right" src="https://cavediverchris.github.io/Final-Fantasy-7-Walkthrough/docs/general-assets/barret-wallace.jpg">
 
 Occupation: Leader of AVALANCHE
 
@@ -378,7 +378,7 @@ Head of the underground resistance movement AVALANCHE, Barrett is fighting the g
 Barret was born and raised in the mining village of Corel. When Shinra wanted to build a reactor there, the people refused but had to accept. When Shinra believed that the people were abusing the reactor, they set out for destruction. Barret lost his right arm in a skirmish with Shinra troops and after that, he had a gun put on the arm for his revenge on Shinra and started a group called Avalanche which was hell bent on destroying Shinra.
 
 ## Red XIII
-<img align="right" src="../docs/general-assets/cloud-strife.jpg">
+<img align="right" src="../docs/general-assets/red-xiii.jpg">
 
 Occupation: Beast
 
@@ -439,7 +439,7 @@ Cid is a tough-talking, warm-hearted old pilot who hasn't forgotten his dreams. 
 Cid was going to be the first man in space on Shinra's No. 26 rocket. When Shera screwed up his rocket plan, she decided to let Cid live with her in Rocket Town. Cid is a tense man who swears a lot. He is the creator of such airships as the Highwind and Tiny Bronco.
 
 ## Vincent Valentine
-<img align="right" src="../docs/general-assets/cloud-strife.jpg">
+<img align="right" src="../docs/general-assets/vincent-valentine.jpg">
 
 Occupation: Unemployed
 
@@ -458,7 +458,7 @@ A mystical man, stern and upright while at the same time, dark and mysterious. H
 Very mysterious, the second secret character you find sleeps in Nibelheim. A former Turk, Vincent was in love with Lucrecia, until an accident occurred which resulted in Vincent sentencing himself to a life of sleep. Not much is known about his past, but he does swear revenge on Sephiroth and Shinra.
 
 ## Yuffie Kisargi
-<img align="right" src="../docs/general-assets/cloud-strife.jpg">
+<img align="right" src="../docs/general-assets/yuffie-kisargi.jpg">
 Occupation: Materia Hunter, Ninja
 
 Age: 16
@@ -476,7 +476,8 @@ Although you'd never know it if you looked at her, Yuffie comes from a long line
 Yuffie is usually the first secret character you encounter. Found in most forests, you can encounter her even before going to Junon for the first time. She was raised in Wutai, where she became a mischievous thief and left Wutai to try and find materia strong enough to save Wutai from the tourism that Shinra had brought. It gets very interesting when she first returns home with Cloud and the group.
 
 ## Sephiroth
-<img align="right" src="https://cavediverchris.github.io/Final-Fantasy-7-Walkthrough/docs/general-assets/sephiroth.jpg">
+
+<img align="right" src="https://cavediverchris.github.com/Final-Fantasy-7-Walkthrough/blob/main/docs/general-assets/sephiroth.jpg">
 
 Occupation: Top Ranking SOLDIER Officer
 
@@ -489,7 +490,5 @@ Height: 185 cm
 Birth date: Unknown
 
 Birthplace: Unknown
-
- 
 
 Even amongst the elite troops of SOLDIER, Sephiroth is known to be the best. His past is locked away in a confidential file held by Shinra Inc. His giant sword, which only he can handle, has extremely destructive power. Said to have disappeared in a battle years ago, his current whereabouts are unknown.
