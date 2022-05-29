@@ -512,8 +512,8 @@ Although you'd never know it if you looked at her, Yuffie comes from a long line
 Yuffie is usually the first secret character you encounter. Found in most forests, you can encounter her even before going to Junon for the first time. She was raised in Wutai, where she became a mischievous thief and left Wutai to try and find materia strong enough to save Wutai from the tourism that Shinra had brought. It gets very interesting when she first returns home with Cloud and the group.
 
 ## Sephiroth
+<img align="right" width="100" height="100" src="/general-assets/cloud-strife.jpg">
 
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Top Ranking SOLDIER Officer
 
 Age: Unknown
