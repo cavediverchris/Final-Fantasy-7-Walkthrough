@@ -214,7 +214,7 @@ Attack lets you do a physical attack on an enemy. Magic or W-Magic lets you use 
 * Western Continent: The long, thin continent to the left side of the Map. Has Wutai on it.
 * Southern Continent: The long, thin continent near the bottom of the Map. Has Mideel on it.
     
- ### Cities
+### Cities
  
 * Midgar: The city where you first enter the World Map. Large, eight-sectioned city with smog around it. Northwest corner of the Eastern Continent.
 *Kalm: The city just to the east of Midgar. Represented by two houses, one with a green roof, and one with a blue roof. North side of the Eastern Continent.
@@ -308,6 +308,7 @@ Use the W-Item cheat to get 99 Ethers, and then sell 98 of them at 750 gil per, 
 
 ## Cloud Strife
 
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Mercenary
 
 Age: 21
@@ -330,6 +331,7 @@ The main character of Final Fantasy VII, Cloud grew up with Tifa in Nibelheim. H
 
 ##  Aeris Gainsborough
 
+![Sony Play Station Circle Button](/general-assets/aeris-gainsborough.jpg)
 Occupation: Flower Merchant
 
 Age: 22
@@ -348,6 +350,7 @@ Aeris was born secretly in the Icicle Village and was soon taken by Shinra to Mi
 
 ## Tifa Lockheart
 
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Bar Hostess
 
 Age: 20
@@ -369,6 +372,8 @@ Bright and optimistic, Tifa always cheers up others when they're feeling down. D
 Tifa grew up with Cloud, they were close at times, but a lot of other boys were around her most of the time so they could never really get together. After Cloud left, Tifa became really sad and eventually left Nibelheim to go the Midgar. There she joined the group Avalanche and started up a bar called 7th Heaven in Sector 7.
 
 ## Barret Wallace
+
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 
 Occupation: Leader of AVALANCHE
 
@@ -392,6 +397,7 @@ Barret was born and raised in the mining village of Corel. When Shinra wanted to
 
 ## Red XIII
 
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Beast
 
 Age: 45
@@ -414,6 +420,7 @@ Actually a teenager still in his years, Red XIII grew up protecting Cosmo Canyon
 
 ## Cait Sith
 
+![Sony Play Station Circle Button](/general-assets/cait-sith.jpg)
 Occupation: Toysaurus
 
 Age: Unknown
@@ -436,6 +443,7 @@ Cait Sith was a fortune-teller in Gold Saucer when it met Cloud and the group. R
 
 ## Cid Highwind
 
+![Sony Play Station Circle Button](/general-assets/cid-highwind.jpg)
 Occupation: Pilot
 
 Age: 32
@@ -457,6 +465,8 @@ Cid is a tough-talking, warm-hearted old pilot who hasn't forgotten his dreams. 
 Cid was going to be the first man in space on Shinra's No. 26 rocket. When Shera screwed up his rocket plan, she decided to let Cid live with her in Rocket Town. Cid is a tense man who swears a lot. He is the creator of such airships as the Highwind and Tiny Bronco.
 
 ## Vincent Valentine
+
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 
 Occupation: Unemployed
 
@@ -480,6 +490,7 @@ Very mysterious, the second secret character you find sleeps in Nibelheim. A for
 
 ## Yuffie Kisargi
 
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Materia Hunter, Ninja
 
 Age: 16
@@ -502,6 +513,7 @@ Yuffie is usually the first secret character you encounter. Found in most forest
 
 ## Sephiroth
 
+![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Top Ranking SOLDIER Officer
 
 Age: Unknown
