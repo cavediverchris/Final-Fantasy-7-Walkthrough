@@ -33,14 +33,10 @@ On the next screen you will be confronted by several groups of SHINRA soldiers, 
 
 When you go  into the third battle, you will have soldiers either side of you. The soldier that strikes your rear will cause more damage. Normally this isn’t a good thing, but you can use this to help build up your limit gauge. So kill the soldiers off in an order that means you are always getting someone striking your back for as long as possible.
 
+Despite winning the battle, Cloud quickly finds himself surrounded by SHINRA soldiers - thinking quickly he makes a daring escape by jumping onto a passing train!
 
-> New Character: Biggs. 
-> In this section we should write a bit about the new person we just met, also include a picture.
->
-> New Character: Barret. 
-> In this section we should write a bit about the new person we just met, also include a picture.
+The scene starts with Jessie, Biggs, Wedge, and Barret talking. Cloud joins them and they leave. Follow them into the next train car. Talk to everyone, after you talk to Jessie, the train passes through an ID Security Check area. After this, talk to Barret, and the train reaches the station. Watch the cool FMV, and exit the train.
 
-You are now on a catwalk high above the ground. When you come to a T-shaped junction, go north, into the reactor. 
 
 
 
