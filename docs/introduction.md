@@ -1,3 +1,5 @@
+![Final Fantasy 7 Logo](/general-assets/final-fantasy-vii-logo.png)
+
 # Introduction
 
 ## Controls
