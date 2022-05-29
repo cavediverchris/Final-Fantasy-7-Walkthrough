@@ -17,3 +17,5 @@
 
 
 ![Alt Text To Be Populated](../general-assets/boss-banner.png) 
+
+[Return to Bestiary](/bestiary.md)
