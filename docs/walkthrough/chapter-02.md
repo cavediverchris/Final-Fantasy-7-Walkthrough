@@ -19,15 +19,19 @@ Midgar, the giant metropolis city ran by the Shinra and powered by Mako reactors
 
 You can find the following item(s) here:
 
-- TBD
-- TBD
-- TBD
+- Potion
+- All materia
+- Ether
 
 ## Guide
 
-Disembarking the train in pursuit of your leader, use the D-pad whilst also pressing the ![Sony Play Station Cross Button](../general-assets/sony-playstation-cross.png) button so that you can run up the platform. You will see the disabled security guards on the floor, search them by pressing the ![Sony Play Station Circle Button](../general-assets/sony-playstation-circle.png) button twice in order to find two Potions.
+Follow Barret up the stairs. When you talk to the flower girl, pick the bottom option, and then the top option. Exit the screen, and you end up in a large open space. Go south, around the large fountain, and then west.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_01.jpg) 
+Pick up the Potion on the left side of the screen. Talk to the man, and then exit south.
+
+On the next screen you will be confronted by several groups of SHINRA soldiers, you might as well fight them for a bit of experience.
+
+When you go  into the third battle, you will have soldiers either side of you. The soldier that strikes your rear will cause more damage. Normally this isn’t a good thing, but you can use this to help build up your limit gauge. So kill the soldiers off in an order that means you are always getting someone striking your back for as long as possible.
 
 
 > New Character: Biggs. 
@@ -39,31 +43,6 @@ Disembarking the train in pursuit of your leader, use the D-pad whilst also pres
 You are now on a catwalk high above the ground. When you come to a T-shaped junction, go north, into the reactor. 
 
 
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
 
 
 ## Navigation
