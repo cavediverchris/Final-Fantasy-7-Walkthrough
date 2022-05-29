@@ -3,7 +3,7 @@
 ![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
 
-![Alt Text To Be Populated](../walkthrough-assets/ch01_14.png.png) 
+![Alt Text To Be Populated](../walkthrough-assets/ch01_14.png) 
 
 |   |   |
 |---|---|
