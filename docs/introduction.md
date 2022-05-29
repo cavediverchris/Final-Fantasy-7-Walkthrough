@@ -153,55 +153,46 @@ Linked slots are shown on weapons and armour by having a black line between them
 
 FF7 has a status system, like all of the other Final Fantasies. When a character has a particular status, he acts differently than normal. Status effects of materia can be ascribed to weapons and armour through the use of the Added Effect Materia. If the materia is linked with Added Effect on a weapon, that weapon ascribes that status to the target. If Added Effect is used on armour, the armour protects against that status. Here are the statuses:
 
-    Death: The character falls to the ground, dead. His HP has dropped to 0. The only way he can fight again is to have Revive-type magic used on him, or the item Phoenix Down. The character does not gain experience or AP when he is dead. If all of your party has this status, you lose. This lasts until he is revived.
-    Near-Death: The character falls to his knees and his HP is represented in yellow. He is very close to dying. Using Potion or Elixir-type items, or Restore-type magic can rectify this. This lasts until he is cured.
-    Sleep: The character stops and has "Zzzz" coming out of him. His time gauge does not fill. To wake him, he needs to be attacked, either by you or an enemy. This lasts until the fight ends.
-    Poison: The character flashes green and loses a certain amount of HP every turn. To cure this, use Heal-type magic, or the item Antidote. This lasts until the fight is over.
-    Sadness: The character's Limit Gauge turns blue. He does not hit as hard with physical attacks, and his Limit Gauge only fills half as fast. This is ended with the item Hyper. This status lasts until you use a Hyper.
-    Fury: The character's Limit Gauge turns from pink to red. He hits harder, but misses attacks more often. His Limit Gauge fills twice as fast. This is ended with the item Tranquilliser. This status lasts till you Tranquillise him.
+* Death: The character falls to the ground, dead. His HP has dropped to 0. The only way he can fight again is to have Revive-type magic used on him, or the item Phoenix Down. The character does not gain experience or AP when he is dead. If all of your party has this status, you lose. This lasts until he is revived.
+* Near-Death: The character falls to his knees and his HP is represented in yellow. He is very close to dying. Using Potion or Elixir-type items, or Restore-type magic can rectify this. This lasts until he is cured.
+ * Sleep: The character stops and has "Zzzz" coming out of him. His time gauge does not fill. To wake him, he needs to be attacked, either by you or an enemy. This lasts until the fight ends.
+* Poison: The character flashes green and loses a certain amount of HP every turn. To cure this, use Heal-type magic, or the item Antidote. This lasts until the fight is over.
+* Sadness: The character's Limit Gauge turns blue. He does not hit as hard with physical attacks, and his Limit Gauge only fills half as fast. This is ended with the item Hyper. This status lasts until you use a Hyper.
+* Fury: The character's Limit Gauge turns from pink to red. He hits harder, but misses attacks more often. His Limit Gauge fills twice as fast. This is ended with the item Tranquilliser. This status lasts till you Tranquillise him.
     Confusion: The character spins in circles and attacks you and your party members. The character being attacked, either by an enemy or you solves this. When the fight is over, the character returns too normal.
-    Silence: The character has a speech bubble with "...." floating over his head. He cannot use magic attacks, Summons, or Enemy Skills. This is cured with Heal-type magic or the item Echo Screen. This lasts until the end of the fight.
-    Haste: The character moves twice as fast, and his Time Gauge fills twice as fast. This is ended with the character's death, or use of Slow-type or DeSpell magic. This ends after the battle.
-    Slow: The character moves half as fast, and his Time Gauge fills half as fast. This is ended with the character's death, or use of Haste-type or DeSpell magic. This ends after the battle.
-    Stop: The character stops moving. His Time Gauge does not move. The only way to cure this is to use DeSpell magic, wait until it wears off, or finish the current fight. This only lasts until the end of the battle.
-    Frog: The character turns into a frog. During this, he can use no magic besides Frog, and his attacks are greatly reduced. Using Frog-type magic, DeSpell, Heal-type magic, or the item Maiden’s Kiss, cures this. This ends after the fight.
-    Small: The character shrinks down to a quarter of his normal size. He can still use all magic and attacks, but they only do 1 HP damage. This is cured by Mini-type magic, Heal-type magic, DeSpell, or the item Cornucopia. This lasts until the end of the battle.
-    Slow numb: The character flashes grey and has a time over his head. When the time expires, he turns into status Petrify. Slow numb is cured by Heal-type magic, or the item Soft. This lasts until the end of the battle, or until the timer runs out, whichever comes first.
-    Petrify: The character is grey. His time gauge does not fill and he does not move. If all characters are petrified, you lose. This is cured with the item Soft, or with Heal-type magic. This lasts until the fight is over.
-    Regen: The character flashes orange. His HP slowly comes back up if it is not at its maximum. This ends at random, usually more than eight turns. Once the battle ends, so does Regen.
-    Barrier: Each time someone uses a physical attack on the character, a white pyramid appears in front of him and he takes half the normal damage. This can be ended by DeBarrier-type magic. This lasts until the Orange (top) Barrier Gauge goes to nothing, or until the fight is over.
-    MBarrier: Each time someone uses a magic attack on the character, a coloured dome appears in front of him and he takes half the normal damage. This can be ended by DeBarrier-type magic. This lasts until the Red (bottom) Barrier Gauge goes to nothing, or until the fight is over.
-    Reflect: If a magic attack is used on a character, three green domes appear in front of him and the magic is reflected upon the opposing party. This is ended by DeSpell magic. This lasts a random amount of turns, usually around eight, or it ends when the fight does.
-    Shield: The character is invincible to most attacks for a short time. This ends in a few turns, or when the fight does, whichever comes first.
-    Death-sentence: The character has a timer over his head. When the timer expires, the character's status changes to Death. This ends with the timer running out, or the fight ending, whichever comes first.
-    Manipulate: The character flashes green, and is controlled by a member of the opposing party. An attack, Sleep status, or the character dying cures this. This ends at the end of a fight.
-    Berserk: The character flashes red and you lose control of him. He only performs physical attacks, but both his speed and attack power are increased. This is cured by Heal-type magic. It ends with the fight.
-    Peerless: The character flashes yellow. Like Shield status, but the character is completely invincible. There are no attacks that can break through the Peerless status. Ends in a few rounds, or with the end of the fight, whichever comes first.
-    Paralysed: Like Stop status, but is cured with Heal-type magic. This ends when the fight does.
-    Darkness: The character flashes black, and cannot see. His hit accuracy rate is severely reduced. This is cured by Heal-type magic, or the item Eye drop. This ends with the fight.
+* Silence: The character has a speech bubble with "...." floating over his head. He cannot use magic attacks, Summons, or Enemy Skills. This is cured with Heal-type magic or the item Echo Screen. This lasts until the end of the fight.
+* Haste: The character moves twice as fast, and his Time Gauge fills twice as fast. This is ended with the character's death, or use of Slow-type or DeSpell magic. This ends after the battle.
+* Slow: The character moves half as fast, and his Time Gauge fills half as fast. This is ended with the character's death, or use of Haste-type or DeSpell magic. This ends after the battle.
+* Stop: The character stops moving. His Time Gauge does not move. The only way to cure this is to use DeSpell magic, wait until it wears off, or finish the current fight. This only lasts until the end of the battle.
+* Frog: The character turns into a frog. During this, he can use no magic besides Frog, and his attacks are greatly reduced. Using Frog-type magic, DeSpell, Heal-type magic, or the item Maiden’s Kiss, cures this. This ends after the fight.
+* Small: The character shrinks down to a quarter of his normal size. He can still use all magic and attacks, but they only do 1 HP damage. This is cured by Mini-type magic, Heal-type magic, DeSpell, or the item Cornucopia. This lasts until the end of the battle.
+* Slow numb: The character flashes grey and has a time over his head. When the time expires, he turns into status Petrify. Slow numb is cured by Heal-type magic, or the item Soft. This lasts until the end of the battle, or until the timer runs out, whichever comes first.
+* Petrify: The character is grey. His time gauge does not fill and he does not move. If all characters are petrified, you lose. This is cured with the item Soft, or with Heal-type magic. This lasts until the fight is over.
+* Regen: The character flashes orange. His HP slowly comes back up if it is not at its maximum. This ends at random, usually more than eight turns. Once the battle ends, so does Regen.
+* Barrier: Each time someone uses a physical attack on the character, a white pyramid appears in front of him and he takes half the normal damage. This can be ended by DeBarrier-type magic. This lasts until the Orange (top) Barrier Gauge goes to nothing, or until the fight is over.
+* MBarrier: Each time someone uses a magic attack on the character, a coloured dome appears in front of him and he takes half the normal damage. This can be ended by DeBarrier-type magic. This lasts until the Red (bottom) Barrier Gauge goes to nothing, or until the fight is over.
+* Reflect: If a magic attack is used on a character, three green domes appear in front of him and the magic is reflected upon the opposing party. This is ended by DeSpell magic. This lasts a random amount of turns, usually around eight, or it ends when the fight does.
+* Shield: The character is invincible to most attacks for a short time. This ends in a few turns, or when the fight does, whichever comes first.
+ * Death-sentence: The character has a timer over his head. When the timer expires, the character's status changes to Death. This ends with the timer running out, or the fight ending, whichever comes first.
+* Manipulate: The character flashes green, and is controlled by a member of the opposing party. An attack, Sleep status, or the character dying cures this. This ends at the end of a fight.
+ * Berserk: The character flashes red and you lose control of him. He only performs physical attacks, but both his speed and attack power are increased. This is cured by Heal-type magic. It ends with the fight.
+* Peerless: The character flashes yellow. Like Shield status, but the character is completely invincible. There are no attacks that can break through the Peerless status. Ends in a few rounds, or with the end of the fight, whichever comes first.
+* Paralysed: Like Stop status, but is cured with Heal-type magic. This ends when the fight does.
+* Darkness: The character flashes black, and cannot see. His hit accuracy rate is severely reduced. This is cured by Heal-type magic, or the item Eye drop. This ends with the fight.
 
 ## Elements
 
 Elementals are the various types of magic in Final Fantasy 7. The elemental of a particular materia is listed on the Materia screen. Elementals of materia can be ascribed to weapons and armour through the use of the Elemental Materia. If the materia is linked with Elemental on a weapon, that weapon adds damage according to the element. If Elemental is used on armour, the armour protects against that element. There are 8 basic elementals:
 
-    Fire
-    Fire effect. Works best on animals and water monsters.
-    Ice
-    Ice effect. Works best on fire monsters and things that hate the cold.
-    Lightning
-    Lightning effect. Works best on mechanical things.
-    Earth
-    Attacks using the earth's power. Doesn't work on flying enemies.
-    Poison
-    Poisons enemies. Doesn't work on any poison based enemies.
-    Gravity
-    Gravity based attack. These hurt if they hit.
-    Water
-    Calls on the earth's water. Works well on fire monsters.
-    Wind
-    Calls up the winds. Works well on flying enemies.
-    Holy
-    Calls up the Planet's power. Works well on dark/evil monsters. 
+* Fire - Works best on animals and water monsters.
+* Ice - Works best on fire monsters and things that hate the cold.
+* Lightning - Works best on mechanical things.
+*    Earth - Attacks using the earth's power. Doesn't work on flying enemies.
+ *   Poison - Poisons enemies. Doesn't work on any poison based enemies.
+  *  Gravity - Gravity based attack. These hurt if they hit.
+   * Water =- Calls on the earth's water. Works well on fire monsters.
+* Wind -   Calls up the winds. Works well on flying enemies.
+* Holy -   Calls up the Planet's power. Works well on dark/evil monsters. 
 
 ## Battles
 
@@ -217,55 +208,55 @@ Attack lets you do a physical attack on an enemy. Magic or W-Magic lets you use 
 
 ### Continents
 
-    Northern Continent: The large continent at the top of the Map. Looks like a Chocobo.
-    Eastern Continent: The continent that you start the game on.
-    Central Continent: The continent to the west of the Eastern Continent. Have Nibelheim and the Gold Saucer.
-    Western Continent: The long, thin continent to the left side of the Map. Has Wutai on it.
-    Southern Continent: The long, thin continent near the bottom of the Map. Has Mideel on it.
+*    Northern Continent: The large continent at the top of the Map. Looks like a Chocobo.
+*   Eastern Continent: The continent that you start the game on.
+*  Central Continent: The continent to the west of the Eastern Continent. Have Nibelheim and the Gold Saucer.
+* Western Continent: The long, thin continent to the left side of the Map. Has Wutai on it.
+* Southern Continent: The long, thin continent near the bottom of the Map. Has Mideel on it.
     
  ### Cities
  
-     Midgar: The city where you first enter the World Map. Large, eight-sectioned city with smog around it. Northwest corner of the Eastern Continent.
-    Kalm: The city just to the east of Midgar. Represented by two houses, one with a green roof, and one with a blue roof. North side of the Eastern Continent.
-    Junon: South and a little west of Midgar. Western coast of the Eastern Continent. Built into a cliff, so it's hard to see. For a majority of the game, it has a large cannon (the Sister Ray) jutting out of it
-    Costa Del Sol: Northeast coast of the Central Continent. Looks like two houses with pink roofs, and two docks. Almost directly west of Midgar.
-    Corel: Northern side of the Central Continent. Looks like two old cabin tents. Straight west of Costa del Sol.
-    Gongaga: Southeast corner of the Central Continent. Looks like a blown up can. Almost straight south from Corel.
-    Cosmo Canyon: Southwest corner of the Central Continent; the sky is red here. Looks like two green huts and an observatory built into a cliff. Almost straight west of Gongaga.
-    Nibelheim: Western side of the Central Continent. Surrounded by pointy grey mountains. Looks like two houses with pink roofs. Southwest of Corel.
-    Rocket Town: Northwest corner of the Central Continent. Looks like two houses and a rocket propped up by a stand. Northwest of Nibelheim.
-    Wutai: The only city on the Western Continent, it's near the northern tip. Looks like two red Japanese houses. Northwest of Rocket Town.
-    Bone Village: Southern tip of the Northern Continent. One of the few places on the Northern Continent without snow. Looks like a dinosaur's rib cage and skull. Northwest of Midgar.
-    Forgotten City: Southern part of the Northern Continent. Looks like a giant tree in a crack in the ground. Just northeast of Bone Village.
-    Icicle Inn: Centre of the Northern Continent. Looks like two beige houses. Northwest of Bone Village.
-    Mideel: The only city on the Southern Continent. Looks like two houses before Ultimate Weapon attacks, looks like a green pool afterwards. Due south of Kalm
+* Midgar: The city where you first enter the World Map. Large, eight-sectioned city with smog around it. Northwest corner of the Eastern Continent.
+*Kalm: The city just to the east of Midgar. Represented by two houses, one with a green roof, and one with a blue roof. North side of the Eastern Continent.
+*    Junon: South and a little west of Midgar. Western coast of the Eastern Continent. Built into a cliff, so it's hard to see. For a majority of the game, it has a large cannon (the Sister Ray) jutting out of it
+*    Costa Del Sol: Northeast coast of the Central Continent. Looks like two houses with pink roofs, and two docks. Almost directly west of Midgar.
+*    Corel: Northern side of the Central Continent. Looks like two old cabin tents. Straight west of Costa del Sol.
+*    Gongaga: Southeast corner of the Central Continent. Looks like a blown up can. Almost straight south from Corel.
+*    Cosmo Canyon: Southwest corner of the Central Continent; the sky is red here. Looks like two green huts and an observatory built into a cliff. Almost straight west of Gongaga.
+*    Nibelheim: Western side of the Central Continent. Surrounded by pointy grey mountains. Looks like two houses with pink roofs. Southwest of Corel.
+*    Rocket Town: Northwest corner of the Central Continent. Looks like two houses and a rocket propped up by a stand. Northwest of Nibelheim.
+*    Wutai: The only city on the Western Continent, it's near the northern tip. Looks like two red Japanese houses. Northwest of Rocket Town.
+*    Bone Village: Southern tip of the Northern Continent. One of the few places on the Northern Continent without snow. Looks like a dinosaur's rib cage and skull. Northwest of Midgar.
+*    Forgotten City: Southern part of the Northern Continent. Looks like a giant tree in a crack in the ground. Just northeast of Bone Village.
+ *   Icicle Inn: Centre of the Northern Continent. Looks like two beige houses. Northwest of Bone Village.
+  *  Mideel: The only city on the Southern Continent. Looks like two houses before Ultimate Weapon attacks, looks like a green pool afterwards. Due south of Kalm
 
 ### Islands
 
-    Woodlands Area: Island southwest of Fort Condor. On the large World Map, has a V-shaped mountain at the northeast corner.
-    Goblin Island: Actually should be Goblin Islands. The group of islands at the northeast corner of the World Map. Northeast of Kalm.
-    Cactus Island: Uncharted island in the far south and not so far west part of the Map. Looks like a small island. South and slightly west of Cosmo Canyon.
-    Round Island: Uncharted Island at the extreme northeast corner of the Map. Looks like a small, round island, with a ring of mountains around it.
+ *   Woodlands Area: Island southwest of Fort Condor. On the large World Map, has a V-shaped mountain at the northeast corner.
+ *   Goblin Island: Actually should be Goblin Islands. The group of islands at the northeast corner of the World Map. Northeast of Kalm.
+ *   Cactus Island: Uncharted island in the far south and not so far west part of the Map. Looks like a small island. South and slightly west of Cosmo Canyon.
+ *   Round Island: Uncharted Island at the extreme northeast corner of the Map. Looks like a small, round island, with a ring of mountains around it.
     
 ### Other Places of Interest
 
-    Chocobo Farm: Southeast of Kalm. Eastern side of the Eastern Continent. Looks like a house with a pink roof, a barn, and a silo.
-    Fort Condor: Southern portion of the Eastern Continent. Looks like a blue cylinder with a bird perched atop it before you win the battle, minus the bird afterwards.
-    Gold Saucer: Eastern side of the Central Continent. Looks like a giant gold tree. Almost due south of Corel, it's surrounded by desert.
-    Weapon Seller's: Single house in the southeast corner of the Central Continent. Straight south of the Gold Saucer.
-    The Northern Continent. Looks like a house with a green roof. East and slightly north of Icicle Inn.
-    Northern Crater: Top point of the Northern Continent. The Chocobo’s eye. Looks like a large hole in the ground, duh! Due north from Icicle Inn.
-    Sleeping Man's Cave: North-central part of the Eastern continent. Looks like a cave! Southeast of Midgar.
-    Temple of the Ancients: On the Woodlands Area Island just off the southwest coast of the Eastern Continent. Looks like a pyramid before it gets turned into the Black Materia, afterwards it's just another hole in the ground.
-    Mythril Mine: South-central part of the Eastern Continent. It's a cave at the south side of the swamp. Southwest of the Chocobo Farm.
-    Mt. Corel: Northern part of the Central Continent. Looks like a cave at the end of mountain road. Ever so slightly northeast of Corel.
-    Mt. Nibel: Northern part of the Central Continent. Looks like a cave in the side of a pointy mountain. Just west of Nibelheim.
-    Corral Valley Cave: Eastern-Central part of the Northern Continent. Looks like a cave. North and a little west of the Forgotten City.
-    Vincent's Waterfall: North-central part of the Central Continent. Looks like a waterfall at the top of a large lake. Just southeast of Nibelheim.
-    Westernmost Cave: Eastern-central part of the Western Continent. It's a cave in the side of a small mountain. Straight west from Rocket Town.
-    Western Cave: Northern part of the Central Continent. Looks like a cave. North of Corel.
-    Southernmost Cave: Northern tip of the island chain off of the Southern Continent. It looks like a cave in a small mountain with a long strip of land leading up to it.
-    Northernmost Cave: Round Island. Northeast of, well, everything. Almost as far north and east as you can go. It's the only thing on Round Island.
+ *   Chocobo Farm: Southeast of Kalm. Eastern side of the Eastern Continent. Looks like a house with a pink roof, a barn, and a silo.
+ *   Fort Condor: Southern portion of the Eastern Continent. Looks like a blue cylinder with a bird perched atop it before you win the battle, minus the bird afterwards.
+ *   Gold Saucer: Eastern side of the Central Continent. Looks like a giant gold tree. Almost due south of Corel, it's surrounded by desert.
+ *   Weapon Seller's: Single house in the southeast corner of the Central Continent. Straight south of the Gold Saucer.
+ *   The Northern Continent. Looks like a house with a green roof. East and slightly north of Icicle Inn.
+ *   Northern Crater: Top point of the Northern Continent. The Chocobo’s eye. Looks like a large hole in the ground, duh! Due north from Icicle Inn.
+ *   Sleeping Man's Cave: North-central part of the Eastern continent. Looks like a cave! Southeast of Midgar.
+ *   Temple of the Ancients: On the Woodlands Area Island just off the southwest coast of the Eastern Continent. Looks like a pyramid before it gets turned into the Black Materia, afterwards it's just another hole in the ground.
+ *   Mythril Mine: South-central part of the Eastern Continent. It's a cave at the south side of the swamp. Southwest of the Chocobo Farm.
+ *   Mt. Corel: Northern part of the Central Continent. Looks like a cave at the end of mountain road. Ever so slightly northeast of Corel.
+ *   Mt. Nibel: Northern part of the Central Continent. Looks like a cave in the side of a pointy mountain. Just west of Nibelheim.
+ *   Corral Valley Cave: Eastern-Central part of the Northern Continent. Looks like a cave. North and a little west of the Forgotten City.
+ *   Vincent's Waterfall: North-central part of the Central Continent. Looks like a waterfall at the top of a large lake. Just southeast of Nibelheim.
+ *   Westernmost Cave: Eastern-central part of the Western Continent. It's a cave in the side of a small mountain. Straight west from Rocket Town.
+ *   Western Cave: Northern part of the Central Continent. Looks like a cave. North of Corel.
+ *   Southernmost Cave: Northern tip of the island chain off of the Southern Continent. It looks like a cave in a small mountain with a long strip of land leading up to it.
+ *   Northernmost Cave: Round Island. Northeast of, well, everything. Almost as far north and east as you can go. It's the only thing on Round Island.
     
 ### World Map
 
@@ -298,20 +289,19 @@ Always keep cursor mode ( BUTTON) on during play and fights. It helps!
 Use the W-Item cheat to get 99 Ethers, and then sell 98 of them at 750 gil per, that's 73500 gil! Or better yet, buy one Sylkis Green from the Chocobo Sage, turn it into 99, then hock 98 of them off at 2500 gil apiece! 245000 gil for a couple of minute’s worth of work!
 
 ## Materia Tips
-    Cover and Counter Attack - When anyone is attacked, attack back!
-    Quadra Magic/Bahamut ZERO and W-Magic - Attack 8 times with Bahamut ZERO!
-    Ultima and Counter (not Counter Attack) - When hit, you counter with Ultima.
-    MP Turbo and Knights of the Round - About 90000 HP (if you haven't brought Knights of the Round up a level)!
-    W-Summon and Knights of the Round - Over 130000 HP (only works if you have brought Knights of the Round up a level)! Two times!
-    Final Attack and Revive - Die, then use Life!
-    Mega All and Steal - Steal from everyone.
-    Hades/Added Effect in your weapon - Attack with a chance of using Slow, Stop, Sleep, Confuse, Poison, Silence, and Mini.
+*    Cover and Counter Attack - When anyone is attacked, attack back!
+*    Quadra Magic/Bahamut ZERO and W-Magic - Attack 8 times with Bahamut ZERO!
+*    Ultima and Counter (not Counter Attack) - When hit, you counter with Ultima.
+*    MP Turbo and Knights of the Round - About 90000 HP (if you haven't brought Knights of the Round up a level)!
+*    W-Summon and Knights of the Round - Over 130000 HP (only works if you have brought Knights of the Round up a level)! Two times!
+*    Final Attack and Revive - Die, then use Life!
+*    Mega All and Steal - Steal from everyone.
+*    Hades/Added Effect in your weapon - Attack with a chance of using Slow, Stop, Sleep, Confuse, Poison, Silence, and Mini.
 
- Mastered Contain/Added Effect in your weapon - Attack with a chance of using Stop, Petrify, or Confuse.
+ * Mastered Contain/Added Effect in your weapon - Attack with a chance of using Stop, Petrify, or Confuse.
 
-    Mastered Cover and as many mastered Counter Attacks as you can find. Upon any member of your party being struck for physical damage, the person with these materia will hit back as many times as you have Counter Attack materia.
-    Quadra Magic/Ultima and Quadra Magic/Ultima and Quadra Magic/Ultima and W-Magic -
-    Attack up to 15 times with Ultima.
+  *  Mastered Cover and as many mastered Counter Attacks as you can find. Upon any member of your party being struck for physical damage, the person with these materia will hit back as many times as you have Counter Attack materia.
+  *  Quadra Magic/Ultima and Quadra Magic/Ultima and Quadra Magic/Ultima and W-Magic -  Attack up to 15 times with Ultima.
 
 
 # Characters
