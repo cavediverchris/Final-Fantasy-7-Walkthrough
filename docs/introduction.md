@@ -260,7 +260,7 @@ Attack lets you do a physical attack on an enemy. Magic or W-Magic lets you use 
     
 ### World Map
 
-INSERT IMAGE OF WORLD MAP
+<img src="../docs/general-assets/world-map.png">
 
 ## PHS
 
