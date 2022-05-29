@@ -62,8 +62,7 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 | ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Movement |
 
 ### Buggy
-
-Same controls as World Map, in addition:
+Same controls as [World Map](introduction.md#world-map), in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
@@ -74,7 +73,7 @@ You can drive on dry land and shallow parts of rivers. You can even enter Costa 
 
 ### Seaplane
 
-Same controls as World Map, in addition:
+Same controls as [World Map](introduction.md#world-map), in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
@@ -111,7 +110,7 @@ You can only go in dark blue water. You can only get out in bays.
 
 ### Chocobo
 
-Same controls as World Map, in addition:
+Same controls as [World Map](introduction.md#world-map), in addition:
 
 | Button   |      Action   |
 |----------|:-------------:|
