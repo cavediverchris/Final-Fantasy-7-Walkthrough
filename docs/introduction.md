@@ -284,7 +284,7 @@ The best place to accumulate AP is in the Northern Crater. Take the upper left p
 
 Move Barret to the back row if he has a long-range weapon. Alternately, give someone the Long Range Materia and move him or her to the back row. They only take half of the physical damage from back here, yet still inflict normal damage.
 
-Always keep cursor mode ( BUTTON) on during play and fights. It helps!
+Always keep cursor mode (SELECT BUTTON) on during play and fights. It helps!
 
 Use the W-Item cheat to get 99 Ethers, and then sell 98 of them at 750 gil per, that's 73500 gil! Or better yet, buy one Sylkis Green from the Chocobo Sage, turn it into 99, then hock 98 of them off at 2500 gil apiece! 245000 gil for a couple of minute’s worth of work!
 
@@ -297,18 +297,15 @@ Use the W-Item cheat to get 99 Ethers, and then sell 98 of them at 750 gil per, 
 *    Final Attack and Revive - Die, then use Life!
 *    Mega All and Steal - Steal from everyone.
 *    Hades/Added Effect in your weapon - Attack with a chance of using Slow, Stop, Sleep, Confuse, Poison, Silence, and Mini.
-
- * Mastered Contain/Added Effect in your weapon - Attack with a chance of using Stop, Petrify, or Confuse.
-
-  *  Mastered Cover and as many mastered Counter Attacks as you can find. Upon any member of your party being struck for physical damage, the person with these materia will hit back as many times as you have Counter Attack materia.
-  *  Quadra Magic/Ultima and Quadra Magic/Ultima and Quadra Magic/Ultima and W-Magic -  Attack up to 15 times with Ultima.
+* Mastered Contain/Added Effect in your weapon - Attack with a chance of using Stop, Petrify, or Confuse.
+*  Mastered Cover and as many mastered Counter Attacks as you can find. Upon any member of your party being struck for physical damage, the person with these materia will hit back as many times as you have Counter Attack materia.
+*  Quadra Magic/Ultima and Quadra Magic/Ultima and Quadra Magic/Ultima and W-Magic -  Attack up to 15 times with Ultima.
 
 
 # Characters
 
 ## Cloud Strife
-
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 Occupation: Mercenary
 
 Age: 21
@@ -321,17 +318,12 @@ Birth date: August 19
 
 Birthplace: Nibelheim
 
- 
-
 Cloud is the primary character in Final Fantasy 7. Originally, he was a member of SOLDIER (an elite group of warriors) but is now a mercenary who will take any job. After being hired by AVALANCHE (A guerrilla group of eco-warriors) he gradually is caught in a massive struggle for the very life of the planet. His weapon, the Buster Sword, is a mighty weapon that can cut almost anything or anyone in two.
-
- 
 
 The main character of Final Fantasy VII, Cloud grew up with Tifa in Nibelheim. He aspired to become a member of the elite Shinra group of SOLDIER and be just like Sephiroth. He failed in his mission and met Zack. Him and Zack were with each other for a while, going through many hardships until they got to Midgar. He then joined a group called Avalanche who rebelled against Shinra. His rival is Sephiroth and his main goal is to destroy him. He holds a giant blade at all times and is strong enough to be able to swiftly move the blade
 
 ##  Aeris Gainsborough
-
-![Sony Play Station Circle Button](/general-assets/aeris-gainsborough.jpg)
+<img align="right" src="../docs/general-assets/aeris-gainsborough.jpg">
 Occupation: Flower Merchant
 
 Age: 22
@@ -344,13 +336,10 @@ Birth date: February 7
 
 Birthplace: Unknown
 
- 
-
 Aeris was born secretly in the Icicle Village and was soon taken by Shinra to Midgar. Her and her mother escaped to the Sector 5 slums. There, Aeris lives with Elmyra in her house. The Turks kept trying to capture her as she was the last of the Cetra race and valuable to Shinra, but she kept eluding them. She is the best magic user in the game.
 
 ## Tifa Lockheart
-
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 Occupation: Bar Hostess
 
 Age: 20
@@ -363,17 +352,12 @@ Birth date: May 3
 
 Birthplace: Nibelheim
 
- 
-
 Bright and optimistic, Tifa always cheers up others when they're feeling down. Don't let her looks fool you, for Tifa is an accomplished martial artist, being trained from a young age. One of the main members of AVALANCHE, she and Cloud were childhood friends. Although she harbours strong feelings for him, she would never admit it openly.
-
- 
 
 Tifa grew up with Cloud, they were close at times, but a lot of other boys were around her most of the time so they could never really get together. After Cloud left, Tifa became really sad and eventually left Nibelheim to go the Midgar. There she joined the group Avalanche and started up a bar called 7th Heaven in Sector 7.
 
 ## Barret Wallace
-
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 
 Occupation: Leader of AVALANCHE
 
@@ -387,17 +371,13 @@ Birth date: December 15
 
 Birthplace: Corel Village
 
- 
-
 Head of the underground resistance movement AVALANCHE, Barrett is fighting the global conglomerate Shinra. Inc. Barrett depends on brute strength and his gun arm to see him through. With his wife dead, a result of a Shinra machinations, Barrett is a somewhat harsh man, who lives with his daughter Marlene.
-
- 
 
 Barret was born and raised in the mining village of Corel. When Shinra wanted to build a reactor there, the people refused but had to accept. When Shinra believed that the people were abusing the reactor, they set out for destruction. Barret lost his right arm in a skirmish with Shinra troops and after that, he had a gun put on the arm for his revenge on Shinra and started a group called Avalanche which was hell bent on destroying Shinra.
 
 ## Red XIII
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
 Occupation: Beast
 
 Age: 45
@@ -410,17 +390,13 @@ Birth date: Unknown
 
 Birthplace: Cosmo Canyon
 
- 
-
 Just as his name implies, he is an animal with fire-red fur. But under his fierce exterior is an intelligence surpassing that of any human. His sharp claws and fangs make him good at close range fighting. Other than that, however, not much else is known about him. It's not even certain that Red XIII is his real name.
-
- 
 
 Actually a teenager still in his years, Red XIII grew up protecting Cosmo Canyon and believing his father was a traitor. He got captured by Shinra and became a research specimen. He was eventually saved by Cloud and the group and also found the truth about his father. His grandfather, Bugenhagen, is human, which makes no sense but who's to argue.
 
 ## Cait Sith
+<img align="right" src="../docs/general-assets/cait-sith.jpg">
 
-![Sony Play Station Circle Button](/general-assets/cait-sith.jpg)
 Occupation: Toysaurus
 
 Age: Unknown
@@ -442,8 +418,8 @@ Cait Sith rides around on the back of a huge stuffed Mog he magically brought to
 Cait Sith was a fortune-teller in Gold Saucer when it met Cloud and the group. Reeve, Shinra's Head of Urban Development, created it to spy of Cloud and the group. It eventually earned its keep and became a permanent member of the group, though quite useless.
 
 ## Cid Highwind
+<img align="right" src="../docs/general-assets/cid-highwind.jpg">
 
-![Sony Play Station Circle Button](/general-assets/cid-highwind.jpg)
 Occupation: Pilot
 
 Age: 32
@@ -456,17 +432,12 @@ Birth date: February 22
 
 Birthplace: Unknown
 
- 
-
 Cid is a tough-talking, warm-hearted old pilot who hasn't forgotten his dreams. There's no better pilot by air, or sea, believing that someday he'll fly to the ends of the universe. With his handmade spear and knowledge of machinery, he throws himself into any attack regardless of the danger.
-
- 
 
 Cid was going to be the first man in space on Shinra's No. 26 rocket. When Shera screwed up his rocket plan, she decided to let Cid live with her in Rocket Town. Cid is a tense man who swears a lot. He is the creator of such airships as the Highwind and Tiny Bronco.
 
 ## Vincent Valentine
-
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 
 Occupation: Unemployed
 
@@ -480,17 +451,12 @@ Birth date: October 13
 
 Birthplace: unknown.
 
- 
-
 A mystical man, stern and upright while at the same time, dark and mysterious. His past connection with Shinra Inc. is what made him join Cloud and the others. He may seem frail at first glance but inside his body lurks a fearsome power.
-
- 
 
 Very mysterious, the second secret character you find sleeps in Nibelheim. A former Turk, Vincent was in love with Lucrecia, until an accident occurred which resulted in Vincent sentencing himself to a life of sleep. Not much is known about his past, but he does swear revenge on Sephiroth and Shinra.
 
 ## Yuffie Kisargi
-
-![Sony Play Station Circle Button](/general-assets/cloud-strife.jpg)
+<img align="right" src="../docs/general-assets/cloud-strife.jpg">
 Occupation: Materia Hunter, Ninja
 
 Age: 16
@@ -503,16 +469,12 @@ Birth date: November 20
 
 Birthplace: Wutai
 
- 
-
 Although you'd never know it if you looked at her, Yuffie comes from a long line of Ninja. She forced herself into the group just to get a certain something. She's sneaky, arrogant and "way" selfish. But, with her super shuriken and her special skills, there isn't anyone else you'd rather have on your side in a fight.
-
- 
 
 Yuffie is usually the first secret character you encounter. Found in most forests, you can encounter her even before going to Junon for the first time. She was raised in Wutai, where she became a mischievous thief and left Wutai to try and find materia strong enough to save Wutai from the tourism that Shinra had brought. It gets very interesting when she first returns home with Cloud and the group.
 
 ## Sephiroth
-<img align="right" width="100" height="100" src="/general-assets/cloud-strife.jpg">
+<img align="right" src="../docs/general-assets/sephiroth.jpg">
 
 Occupation: Top Ranking SOLDIER Officer
 
