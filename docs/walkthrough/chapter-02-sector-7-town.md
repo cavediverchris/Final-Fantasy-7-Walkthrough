@@ -1,4 +1,4 @@
-#  Sector 7 Slums
+#  Sector 7 Town
 
 
 ## Story So Far
