@@ -359,7 +359,7 @@ Bright and optimistic, Tifa always cheers up others when they're feeling down. D
 Tifa grew up with Cloud, they were close at times, but a lot of other boys were around her most of the time so they could never really get together. After Cloud left, Tifa became really sad and eventually left Nibelheim to go the Midgar. There she joined the group Avalanche and started up a bar called 7th Heaven in Sector 7.
 
 ## Barret Wallace
-<img align="right" src="https://cavediverchris.github.io/Final-Fantasy-7-Walkthrough/docs/general-assets/barret-wallace.jpg">
+<img align="right" src="../docs/general-assets/barret-wallace.jpg">
 
 Occupation: Leader of AVALANCHE
 
@@ -477,7 +477,7 @@ Yuffie is usually the first secret character you encounter. Found in most forest
 
 ## Sephiroth
 
-<img align="right" src="https://cavediverchris.github.com/Final-Fantasy-7-Walkthrough/blob/main/docs/general-assets/sephiroth.jpg">
+<img align="right" src="../docs/general-assets/sephiroth.jpg">
 
 Occupation: Top Ranking SOLDIER Officer
 
