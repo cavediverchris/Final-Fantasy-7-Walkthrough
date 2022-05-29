@@ -41,24 +41,23 @@ Final Fantasy 7 was originally released on the Sony Playstation and has been bui
 
 | Button   |      Action   |
 |----------|:-------------:|
-| ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Movement |
-| Down |  Movement |
-| Left |  Change order |
-| Right |  Defend |
+| ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Menu navigation |
+| ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) |  Change order |
+| ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) |  Defend |
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Select menu command   |
 | ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) | Cancel selection |
 | ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) | Change active character |
 | ![Sony Play Station Square Button](/general-assets/sony-playstation-square.png) | Hide command menu |
-| L2 | Toggle All Mode on / off |
-| R2 | Toggle Targetting Mode on / off |
+| ![Sony Play Station L2 Button](/general-assets/sony-playstation-L2.png)  | Toggle All Mode on / off |
+| ![Sony Play Station R2 Button](/general-assets/sony-playstation-R2.png)  | Toggle Targetting Mode on / off |
 | ![Sony Play Station Selet Button](/general-assets/sony-playstation-select.png) | Information mode |
-| Start | Pause |
+| ![Sony Play Station Start Button](/general-assets/sony-playstation-start.png)  | Pause |
 
 ### World Map
 
 | Button   |      Action   |
 |----------|:-------------:|
-| D![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Movement |
+| ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Movement |
 
 ### Buggy
 
@@ -86,8 +85,8 @@ You can only float on light blue water and rivers. You can exit on beaches.
 | Button   |      Action   |
 |----------|:-------------:|
 | ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Ascend |
-| Down |  Descend |
-| Left / Right |  Steer |
+| ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Descend |
+| ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) / ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) |  Steer |
 | ![Sony Play Station L1 Button](/general-assets/sony-playstation-L1.png)  / ![Sony Play Station R1 Button](/general-assets/sony-playstation-R1.png) |  Steer hard |
 | ![Sony Play Station Triangle Button](/general-assets/sony-playstation-triangle.png) |  Enter cockpit |
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Go forwards |
@@ -101,8 +100,8 @@ You can go anywhere in the air. You can only land on grass, and near the Forgott
 | Button   |      Action   |
 |----------|:-------------:|
 | ![Sony Play Station Up Button](/general-assets/sony-playstation-up.png) |  Descend |
-| Down |  Ascend |
-| Left / Right |  Steer |
+| ![Sony Play Station Down Button](/general-assets/sony-playstation-down.png) |  Ascend |
+| ![Sony Play Station Left Button](/general-assets/sony-playstation-left.png) / ![Sony Play Station Right Button](/general-assets/sony-playstation-right.png) |  Steer |
 | ![Sony Play Station Circle Button](/general-assets/sony-playstation-circle.png) |  Move forward |
 | ![Sony Play Station Cross Button](/general-assets/sony-playstation-cross.png) |  Submerge / dive / get out |
 
