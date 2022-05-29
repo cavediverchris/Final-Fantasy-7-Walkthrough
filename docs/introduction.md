@@ -477,7 +477,7 @@ Yuffie is usually the first secret character you encounter. Found in most forest
 
 ## Sephiroth
 
-<img align="right" src="../docs/general-assets/sephiroth.jpg">
+<img align="right" src="https://github.com/cavediverchris/Final-Fantasy-7-Walkthrough/blob/main/docs/general-assets/sephiroth.jpg">
 
 Occupation: Top Ranking SOLDIER Officer
 
