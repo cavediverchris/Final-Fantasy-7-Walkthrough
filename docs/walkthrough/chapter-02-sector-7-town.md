@@ -48,4 +48,4 @@ The scene starts with Jessie, Biggs, Wedge, and Barret talking. Cloud joins them
 
 
 ## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01-sector-7-station-and-reactor.md) / [Next chapter - Train to Sector 5](/chapter-03-sector-7-slums.md)
+[Previous chapter - Sector 7 Reactor](/chapter-01-sector-7-station-and-reactor.md) / [Next chapter - Sector 7 Slums](/chapter-03-sector-7-slums.md)
