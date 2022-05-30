@@ -71,4 +71,4 @@ When you’re ready, head to the train station.
 
 
 ## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-04-sector-5-reactor.md)
+[Previous chapter - Sector 7 Reactor](/chapter-02-sector-7-town.md) / [Next chapter - Train to Sector 5](/chapter-04-sector-5-reactor.md)
