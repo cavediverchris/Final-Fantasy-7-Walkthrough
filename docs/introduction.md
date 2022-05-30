@@ -261,7 +261,7 @@ Attack lets you do a physical attack on an enemy. Magic or W-Magic lets you use 
     
 ### World Map
 
-<img src="../docs/general-assets/world-map.png">
+![World Map](/general-assets/world-map.png)
 
 ## PHS
 
@@ -306,7 +306,7 @@ Use the W-Item cheat to get 99 Ethers, and then sell 98 of them at 750 gil per, 
 # Characters
 
 ## Cloud Strife
-<img align="right" src="../docs/general-assets/cloud-strife.jpg">
+<img src="general-assets/cloud-strife.jpg" align="right" alt="Cloud Strife">
 Occupation: Mercenary
 
 Age: 21
@@ -324,7 +324,7 @@ Cloud is the primary character in Final Fantasy 7. Originally, he was a member o
 The main character of Final Fantasy VII, Cloud grew up with Tifa in Nibelheim. He aspired to become a member of the elite Shinra group of SOLDIER and be just like Sephiroth. He failed in his mission and met Zack. Him and Zack were with each other for a while, going through many hardships until they got to Midgar. He then joined a group called Avalanche who rebelled against Shinra. His rival is Sephiroth and his main goal is to destroy him. He holds a giant blade at all times and is strong enough to be able to swiftly move the blade
 
 ##  Aeris Gainsborough
-<img align="right" src="../docs/general-assets/aeris-gainsborough.jpg">
+<img src="general-assets/aeris-gainsborough.jpg" align="right" alt="Aeris Gainsborough">
 Occupation: Flower Merchant
 
 Age: 22
@@ -340,7 +340,7 @@ Birthplace: Unknown
 Aeris was born secretly in the Icicle Village and was soon taken by Shinra to Midgar. Her and her mother escaped to the Sector 5 slums. There, Aeris lives with Elmyra in her house. The Turks kept trying to capture her as she was the last of the Cetra race and valuable to Shinra, but she kept eluding them. She is the best magic user in the game.
 
 ## Tifa Lockheart
-<img align="right" src="../docs/general-assets/tifa-lockheart.jpg">
+<img src="general-assets/tifa-lockheart.jpg" align="right" alt="Tifa Lockheart">
 Occupation: Bar Hostess
 
 Age: 20
@@ -358,7 +358,7 @@ Bright and optimistic, Tifa always cheers up others when they're feeling down. D
 Tifa grew up with Cloud, they were close at times, but a lot of other boys were around her most of the time so they could never really get together. After Cloud left, Tifa became really sad and eventually left Nibelheim to go the Midgar. There she joined the group Avalanche and started up a bar called 7th Heaven in Sector 7.
 
 ## Barret Wallace
-<img align="right" src="../docs/general-assets/barret-wallace.jpg">
+<img src="general-assets/barret-wallace.jpg" align="right" alt="Barret Wallace">
 
 Occupation: Leader of AVALANCHE
 
@@ -377,7 +377,7 @@ Head of the underground resistance movement AVALANCHE, Barrett is fighting the g
 Barret was born and raised in the mining village of Corel. When Shinra wanted to build a reactor there, the people refused but had to accept. When Shinra believed that the people were abusing the reactor, they set out for destruction. Barret lost his right arm in a skirmish with Shinra troops and after that, he had a gun put on the arm for his revenge on Shinra and started a group called Avalanche which was hell bent on destroying Shinra.
 
 ## Red XIII
-<img align="right" src="../docs/general-assets/red-xiii.jpg">
+<img src="general-assets/red-xiii.jpg" align="right" alt="Red XIII">
 
 Occupation: Beast
 
@@ -396,7 +396,7 @@ Just as his name implies, he is an animal with fire-red fur. But under his fierc
 Actually a teenager still in his years, Red XIII grew up protecting Cosmo Canyon and believing his father was a traitor. He got captured by Shinra and became a research specimen. He was eventually saved by Cloud and the group and also found the truth about his father. His grandfather, Bugenhagen, is human, which makes no sense but who's to argue.
 
 ## Cait Sith
-<img align="right" src="../docs/general-assets/cait-sith.jpg">
+<img src="general-assets/cait-sith.jpg" align="right" alt="Cait Sith">
 
 Occupation: Toysaurus
 
@@ -419,7 +419,7 @@ Cait Sith rides around on the back of a huge stuffed Mog he magically brought to
 Cait Sith was a fortune-teller in Gold Saucer when it met Cloud and the group. Reeve, Shinra's Head of Urban Development, created it to spy of Cloud and the group. It eventually earned its keep and became a permanent member of the group, though quite useless.
 
 ## Cid Highwind
-<img align="right" src="../docs/general-assets/cid-highwind.jpg">
+<img src="general-assets/cid-highwind.jpg" align="right" alt="Cid Highwind">
 
 Occupation: Pilot
 
@@ -438,7 +438,7 @@ Cid is a tough-talking, warm-hearted old pilot who hasn't forgotten his dreams. 
 Cid was going to be the first man in space on Shinra's No. 26 rocket. When Shera screwed up his rocket plan, she decided to let Cid live with her in Rocket Town. Cid is a tense man who swears a lot. He is the creator of such airships as the Highwind and Tiny Bronco.
 
 ## Vincent Valentine
-<img align="right" src="../docs/general-assets/vincent-valentine.jpg">
+<img src="general-assets/vincent-valentine.jpg" align="right" alt="Vincent Valentine">
 
 Occupation: Unemployed
 
@@ -457,7 +457,7 @@ A mystical man, stern and upright while at the same time, dark and mysterious. H
 Very mysterious, the second secret character you find sleeps in Nibelheim. A former Turk, Vincent was in love with Lucrecia, until an accident occurred which resulted in Vincent sentencing himself to a life of sleep. Not much is known about his past, but he does swear revenge on Sephiroth and Shinra.
 
 ## Yuffie Kisargi
-<img align="right" src="../docs/general-assets/yuffie-kisargi.jpg">
+<img src="general-assets/yuffie-kisargi.jpg" align="right" alt="Yuffie Kisargi">
 Occupation: Materia Hunter, Ninja
 
 Age: 16
@@ -476,7 +476,7 @@ Yuffie is usually the first secret character you encounter. Found in most forest
 
 ## Sephiroth
 
-<img align="right" src="https://github.com/cavediverchris/Final-Fantasy-7-Walkthrough/blob/main/docs/general-assets/sephiroth.jpg">
+<img src="general-assets/sephiroth.jpg" align="right" alt="Sephiroth">
 
 Occupation: Top Ranking SOLDIER Officer
 
