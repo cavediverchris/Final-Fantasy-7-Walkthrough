@@ -3,7 +3,7 @@
 
 ## Story So Far
 
-In this section write a bit of a narration about what has happened.
+The AVALANCHE team have managaged to escape from Sector 7 Town where they blew up the Sector 7 reactor, despite security checks on the train, fake IDs have allowed them to pass through undetected thanks to Jessie's excellent work. The train arrives at the Sector 7 Slum train station and team get ready to head back to base.
 
 ## About this area
 
@@ -19,9 +19,10 @@ In this section write a bit of narration providing some background of the area.
 
 You can find the following item(s) here:
 
-- TBD
-- TBD
-- TBD
+- Potion
+- All materia
+- Ether
+
 
 ## Guide
 
@@ -32,54 +33,6 @@ Write a guide on what is happening and what to do.
 > In this section we should write a bit about the new person we just met, also include a picture.
 >
 
-
-
-
-Template for a boss
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
-
-
-## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
-
-# Chapter 3
-
-
-GUIDE
-
-What you can find here
-Items:
-Potion
-All materia
-Ether
-
-
-
-4.5.1 Guide
 Follow the team off to the left of the screen. In the next screen, head north, there is a guy excitedly looking at the pillar, chat with him to see it. There is also a save point here. Now would be a good time to save your game. Once saved, head off the left side of the screen.
 
 Now go down and left to AVALANCHE H.Q., a.k.a. Tifa's 7th Heaven bar. Enter the bar, and talk to Tifa, and the little girl, Marlene. After naming Tifa, give Tifa a flower. 
@@ -122,10 +75,10 @@ Don't buy any Potions here, you should have enough already. Do, however, buy one
 
 If you need to, the third floor contains an Inn where you can rest up to restore your stats.
 
-
-
-
-
 Now you should have two of every materia. You should find that you can’t equip one materia because you don’t have the space in your equipment, don’t worry, just wait until you get some new equipment, then you can equip it.
 
 When you’re ready, head to the train station.
+
+
+## Navigation
+[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-04-sector-5-reactor.md)
