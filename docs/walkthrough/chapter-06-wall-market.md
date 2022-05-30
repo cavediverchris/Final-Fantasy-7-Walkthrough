@@ -1,4 +1,4 @@
-#  Chapter-XX
+#  Chapter 6 - Wall Market
 
 
 ## Story So Far
@@ -19,60 +19,11 @@ In this section write a bit of narration providing some background of the area.
 
 You can find the following item(s) here:
 
-- TBD
-- TBD
-- TBD
+- Ether
+- Phoenix Down or Hyper
 
 ## Guide
 
-Write a guide on what is happening and what to do.
-
->
-> New Character: New character name. 
-> In this section we should write a bit about the new person we just met, also include a picture.
->
-
-
-
-
-Template for a boss
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
-
-
-## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
-What you can find here
-Items available here:
-Ether
-Phoenix Down or Hyper
-
-
-
-4.7.2 Guide
 Talk to Aeris, and pick the bottom option. Follow her until she stops and then talk again. After Tifa rides past, follow her to the Wall Market.
  
 
@@ -150,3 +101,42 @@ If Cloud was picked
 
 
 Search behind the bed for a Hyper. Talk to Don. The girls bust in, and make threats. Talk to him, and pick any of the three options, and into the sewers you go.
+
+>
+> New Character: New character name. 
+> In this section we should write a bit about the new person we just met, also include a picture.
+>
+
+
+
+
+Template for a boss
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
+
+|   |   |
+|---|---|
+| Name  | Guard Scorpion  |
+| HP  | 800  |
+| MP  | ??  |
+| Level  | ??  |
+| Strengths  | None  |
+| Weaknesses  | Lightning  |
+
+If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
+
+
+
+
+| Rewards  |   |   |   |
+|---|---|---|---|
+| EXP  | AP  | Gil  | Item(s)  |
+| 100  | 10  | 100  | Assault Gun  |
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
+
+COTNINUE THE GUIDE
+
+
+## Navigation
+[Previous chapter - TBD](/chapter-05-sector-5-slums.md) / [Next chapter - Sewer](/chapter-07-sewer.md)
