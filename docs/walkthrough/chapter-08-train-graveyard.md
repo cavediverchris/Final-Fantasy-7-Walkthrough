@@ -181,4 +181,4 @@ Climb back down and jump across to the wire. The best way to time the jump is to
 
 
 ## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
+[Previous chapter - Sewer](/chapter-07-sewer.md) / [Next chapter - Train to Sector 5](/chapter-09.md)
