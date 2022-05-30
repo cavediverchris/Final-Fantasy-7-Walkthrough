@@ -142,4 +142,4 @@ When you reach the entrance talk to Jessie, then Biggs, to open both doors. Just
 
 
 ## Navigation
-[Previous chapter - TBD](/chapter_00.md) / [Next chapter - Sector 7 Town](/chapter-02-sector-7-town.md)
+[Previous chapter - Walkthrough Table of Contents](/walkthrough.md) / [Next chapter - Sector 7 Town](/chapter-02-sector-7-town.md)
