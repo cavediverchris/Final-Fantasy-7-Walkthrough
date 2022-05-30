@@ -142,5 +142,5 @@ COTNINUE THE GUIDE
 
 
 ## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-03-sector-7-slums.md) / [Next chapter - Sector 5 Slums](/chapter-05-sector-5-slums.mdd)
+[Previous chapter - Sector 7 Slums](/chapter-03-sector-7-slums.md) / [Next chapter - Sector 5 Slums](/chapter-05-sector-5-slums.md)
 
