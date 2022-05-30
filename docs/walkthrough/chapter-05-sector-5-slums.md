@@ -1,4 +1,4 @@
-#  Chapter-XX
+#  Chapter 05 - Sector 5 Slums
 
 
 ## Story So Far
@@ -20,8 +20,12 @@ In this section write a bit of narration providing some background of the area.
 You can find the following item(s) here:
 
 - TBD
-- TBD
-- TBD
+- 5 gil
+- Cover Materia
+- Ether
+- Potion
+- Phoenix Down 
+
 
 ## Guide
 
@@ -32,53 +36,6 @@ Write a guide on what is happening and what to do.
 > In this section we should write a bit about the new person we just met, also include a picture.
 >
 
-
-
-
-Template for a boss
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
-
-
-## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
-
-GUIDE
-
-5.6.2 What you can find here
-Items available here:
-5 gil
-Cover Materia
-Ether
-Potion
-Phoenix Down 
-
-
-
-5.6.3 Guide
 When you wake up, you meet Aeris, whose flower bed you fell on. When you talk to her, pick the top option, then the top option, and the top option. Actually, if you leave the church and walk outside the doors to the right, you can talk to Reno briefly... Walk to Aeris and talk to her again. Name her, and then talk some more. Reno of the Turks comes in to the church. Talk to Aeris again, and then fight the guards.
 
 
@@ -131,3 +88,9 @@ When you move into the next area, I suggest that you train Aeris and Cloud here 
 Train here until both Cloud and Aeris have their second limit breaks. By doing this you are bringing Aeris up to the same levels as the rest of the team.
 
 When you are ready head off the top of the screen.
+
+COTNINUE THE GUIDE
+
+
+## Navigation
+[Previous chapter - TBD](/chapter-04-sector-5-reactor.md) / [Next chapter - Wall Market](/chapter-06-wall-market.md)
