@@ -1,4 +1,4 @@
-#  Chapter-XX
+#  Chapter 04 - Sector 5 Reactor
 
 
 ## Story So Far
@@ -19,9 +19,9 @@ In this section write a bit of narration providing some background of the area.
 
 You can find the following item(s) here:
 
-- TBD
-- TBD
-- TBD
+- 2 Ether
+- Potion
+- Tent
 
 ## Guide
 
@@ -31,63 +31,6 @@ Write a guide on what is happening and what to do.
 > New Character: New character name. 
 > In this section we should write a bit about the new person we just met, also include a picture.
 >
-
-
-
-
-Template for a boss
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
-
-
-## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
-
-
-GUIDE
-
-5.5.2 What you can find here
-Items available here:
-2 Ether
-Potion
-Tent
-
-
-
-5.5.3 Guide
-
-
-
-
-
-
-
-
-
-
 
 
 Board the train. 
@@ -135,7 +78,30 @@ Turn left into the room with the large panel in the centre. Walk up to the panel
 
 Through the next door and down the stairs is the boss. When you reach the T-junction, talk to President Shinra. He flies away, but leaves you to fight Air Buster. 
 
+Template for a boss
 
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
+
+|   |   |
+|---|---|
+| Name  | Guard Scorpion  |
+| HP  | 800  |
+| MP  | ??  |
+| Level  | ??  |
+| Strengths  | None  |
+| Weaknesses  | Lightning  |
+
+If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
+
+
+
+
+| Rewards  |   |   |   |
+|---|---|---|---|
+| EXP  | AP  | Gil  | Item(s)  |
+| 100  | 10  | 100  | Assault Gun  |
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
 
 
@@ -169,3 +135,12 @@ Titan Bangle
 
 
 After the fight, Air Buster explodes, sending Cloud falling to the streets far below. 
+
+
+
+COTNINUE THE GUIDE
+
+
+## Navigation
+[Previous chapter - Sector 7 Reactor](/chapter-03-sector-7-slums.md) / [Next chapter - Train to Sector 5](/chapter-05.md)
+
