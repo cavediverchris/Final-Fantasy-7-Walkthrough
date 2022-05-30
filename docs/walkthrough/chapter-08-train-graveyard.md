@@ -1,4 +1,4 @@
-#  Chapter-XX
+#  Chapter 8 - Train Graveyard
 
 
 ## Story So Far
@@ -19,63 +19,19 @@ In this section write a bit of narration providing some background of the area.
 
 You can find the following item(s) here:
 
-- TBD
-- TBD
-- TBD
+- 3 Hi-Potions
+- Echo Screen
+- 3 Potions
+- Ether 
+- Turbo Ether
+- Sense Materia
+- Ether 
+
 
 ## Guide
 
 Write a guide on what is happening and what to do.
 
->
-> New Character: New character name. 
-> In this section we should write a bit about the new person we just met, also include a picture.
->
-
-
-
-
-Template for a boss
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
-
-
-
-
-| Rewards  |   |   |   |
-|---|---|---|---|
-| EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-COTNINUE THE GUIDE
-
-
-## Navigation
-[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
-What you can find here
-Items available here:
-3 Hi-Potions
-Echo Screen
-3 Potions
-Ether 
-
-
-
-
-4.9.3 Guide
 Climb from the manhole and save. 
 
 
@@ -117,21 +73,17 @@ Run and get in the other engine to the north. It backs up.
 
 Climb the ladder on the adjacent car, get the Hi-Potion, and climb across to the left. Climb down from the train, and head left, to the AVALANCHE Hideout. 
 
-4.10.2 What you can find here
-Items available here:
-Turbo Ether
-Sense Materia
-Ether 
+>
+> New Character: New character name. 
+> In this section we should write a bit about the new person we just met, also include a picture.
+>
 
 
-
-
-4.10.3 Guide
 Arriving in Sector 7 we can see that Barret is at the top of the pillar fighting, unfortunately Wedge get shots and falls from the top and dies. Talk to the old man hiding on the left to buy items, in particular you will need grenades, about 15 should be plenty, and then go save and start climbing. Biggs is hanging over the railing a short ways up. Continue your climb, and talk to Jessie. At the top, you meet Barret. Take the opportunity to adjust your equipment - Barret will now need to have a Mythril Armlet equipped to boost his stats. Also the materia that Aeris had equipped will now be in your inventory so get that equipped to Barret too. 
 
 When you are ready, it’s time to fight Reno. 
 
-
+Template for a boss
 
 
 Name :
@@ -165,7 +117,28 @@ Item(s)
 500
 Ether
 
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
+|   |   |
+|---|---|
+| Name  | Guard Scorpion  |
+| HP  | 800  |
+| MP  | ??  |
+| Level  | ??  |
+| Strengths  | None  |
+| Weaknesses  | Lightning  |
+
+If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
+
+
+
+
+| Rewards  |   |   |   |
+|---|---|---|---|
+| EXP  | AP  | Gil  | Item(s)  |
+| 100  | 10  | 100  | Assault Gun  |
+
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
 After beating Reno you’ll get to meet Tseng who is holding Aeris captive. , escape by using the cable Barret grabs. The entire section of the plate crashes down in a nice looking FMV sequence.
  
@@ -207,4 +180,5 @@ Run up the beam and climb the cable. Instead of jumping across to the swinging w
 Climb back down and jump across to the wire. The best way to time the jump is to jump just as the wire stops squeaking. Climb up the pipes and cables to the top. 
 
 
-
+## Navigation
+[Previous chapter - Sector 7 Reactor](/chapter-01.md) / [Next chapter - Train to Sector 5](/chapter-03.md)
