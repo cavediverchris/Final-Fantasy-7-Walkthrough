@@ -25,20 +25,17 @@ You can find the following item(s) here:
 
 
 ## Guide
-
-Write a guide on what is happening and what to do.
-
->
-> New Character: New character name. 
-> In this section we should write a bit about the new person we just met, also include a picture.
->
-
 Follow the team off to the left of the screen. In the next screen, head north, there is a guy excitedly looking at the pillar, chat with him to see it. There is also a save point here. Now would be a good time to save your game. Once saved, head off the left side of the screen.
 
-Now go down and left to AVALANCHE H.Q., a.k.a. Tifa's 7th Heaven bar. Enter the bar, and talk to Tifa, and the little girl, Marlene. After naming Tifa, give Tifa a flower. 
+Now go down and left to AVALANCHE H.Q., a.k.a. Tifa's 7th Heaven bar. Enter the bar, and talk to Tifa, and the little girl, Marlene. After naming Tifa, give Tifa a flower.
 
 
+> <img src="../Ageneral-assets/tifa-lockheart.jpg" align="right" alt="Tifa Lockheart">
+> New Character: Tifa
+> Tifa Lockheart, Cloud and Tifa knew each other as children from when they lived together in Nibelheim. Now Tifa runs a bar in the Sector 7 Slums called 7th Heaven.
+>
 
+ 
 Now talk to everyone else. Try to leave the bar, and Barret will come barging in. Once he’s finished and summoned the meeting, go talk with Tifa at the bar and have a drink. Once you have finished with Tifa, follow Barret downstairs and talk to all the members. 
 
 Go back upstairs and try to leave. Tifa follows you, so talk to her and watch the childhood story. Barret comes and pays you 1500 gil for the mission. 
@@ -54,14 +51,7 @@ Tifa and Barret will join you so leave the bar and run to the large building to 
 Buy three Iron Bangles from the man behind the counter. Equip them and sell the Bronze Bangles for a bit of extra cash. 
 
 
-
-
-
-Go up to the second floor to the Beginner's Hall.
-
-
-
- and talk to everyone. The dog explains how to use the buttons. Grab the blue circle by the boy on the right's feet. It's an All Materia. He then gives you an Ether. 
+Go up to the second floor to the Beginner's Hall and talk to everyone. The dog explains how to use the buttons. Grab the blue circle by the boy on the right's feet. It's an All Materia. He then gives you an Ether. 
 
 
 
