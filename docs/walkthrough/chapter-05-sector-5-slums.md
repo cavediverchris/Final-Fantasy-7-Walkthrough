@@ -83,8 +83,5 @@ Train here until both Cloud and Aeris have their second limit breaks. By doing t
 
 When you are ready head off the top of the screen.
 
-COTNINUE THE GUIDE
-
-
 ## Navigation
 [Previous chapter - TBD](/chapter-04-sector-5-reactor.md) / [Next chapter - Wall Market](/chapter-06-wall-market.md)
