@@ -94,9 +94,11 @@ If you have either (or both!) characters limits ready, use them, this will deal 
 
 After the battle, climb the ladder, go right, and climb down. Use the stairs and get the Steal Materia. Get this equipped straight away to Tifa to start levelling it up.
 
-
+![Alt Text To Be Populated](../walkthrough-assets/ch07_01.jpg) 
 
 Jump down the hole in the upper right corner. Run right to the stairs, and then climb up the metal structure to the left. Go right and use the ladder to climb up to the train graveyard.
+
+![Alt Text To Be Populated](../walkthrough-assets/ch07_02.jpg) 
 
 
 ## Navigation
