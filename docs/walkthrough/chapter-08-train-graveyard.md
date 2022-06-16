@@ -3,7 +3,7 @@
 
 ## Story So Far
 
-In this section write a bit of a narration about what has happened.
+After crawling and battling their way through the sewers, Cloud and the team climb out and into the train graveyard. Recognising this they know where they are and are nearly home.
 
 ## About this area
 
@@ -30,11 +30,9 @@ You can find the following item(s) here:
 
 ## Guide
 
-Write a guide on what is happening and what to do.
+Climb up from the manhole and use the save point to save your progress before you continue. 
 
-Climb from the manhole and save. 
-
-
+![Alt Text To Be Populated](../walkthrough-assets/ch08_01.jpg) 
 
 Run inside the first train car on the right by using the metal grate. Run through and exit near the barrel. Search the barrel for a Hi-Potion. 
 
@@ -73,33 +71,30 @@ Run and get in the other engine to the north. It backs up.
 
 Climb the ladder on the adjacent car, get the Hi-Potion, and climb across to the left. Climb down from the train, and head left, to the AVALANCHE Hideout. 
 
->
-> New Character: New character name. 
-> In this section we should write a bit about the new person we just met, also include a picture.
->
+
 
 
 Arriving in Sector 7 we can see that Barret is at the top of the pillar fighting, unfortunately Wedge get shots and falls from the top and dies. Talk to the old man hiding on the left to buy items, in particular you will need grenades, about 15 should be plenty, and then go save and start climbing. Biggs is hanging over the railing a short ways up. Continue your climb, and talk to Jessie. At the top, you meet Barret. Take the opportunity to adjust your equipment - Barret will now need to have a Mythril Armlet equipped to boost his stats. Also the materia that Aeris had equipped will now be in your inventory so get that equipped to Barret too. 
 
 When you are ready, it’s time to fight Reno. 
 
-Template for a boss
+>
+> New Character: Reno 
+> In this section we should write a bit about the new person we just met, also include a picture.
+>
 
 
-Name :
-Reno
+![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
-HP :
-1000
-MP : 
-N/A
-Level :
-17
-Strengths :
-N/A
-Weaknesses : 
-N/A
-Guide
+|   |   |
+|---|---|
+| Name  | Reno  |
+| HP  | 1000  |
+| MP  | ??  |
+| Level  | 17  |
+| Strengths  | None  |
+| Weaknesses  | None  |
+
 Any magic attacks work equally as well against Reno. 
 
 Reno has a skill called Pyramid attack. When someone is under the influence of a Pyramid they can’t attack. Have someone attack the pyramid around them (not the character!) with a grenade to destroy it instantly. NOTE If a person had had an attack lined up before the pyramid was cast and then the pyramid stopped the attack being executed then the attack will be completed when the person is free. 
@@ -107,28 +102,6 @@ Reno has a skill called Pyramid attack. When someone is under the influence of a
 You shouldn’t find him too hard as long as you keep destroying the Pyramid’s quickly. Beware his Electro-Mag Rod, as it will paralyse its victim for a short amount of time and does around 75-100 HP of damage, so cure if your health falls into the 150-200 HP range.
 
 After dealing out some damage Reno eventually runs away. 
-Rewards
-EXP
-AP
-Gil
-Item(s)
-290
-22
-500
-Ether
-
-![Alt Text To Be Populated](../general-assets/boss-banner.png) 
-
-|   |   |
-|---|---|
-| Name  | Guard Scorpion  |
-| HP  | 800  |
-| MP  | ??  |
-| Level  | ??  |
-| Strengths  | None  |
-| Weaknesses  | Lightning  |
-
-If you have either (or both!) characters limits ready, use them, this will deal out some serious damage early on.
 
 
 
@@ -136,13 +109,11 @@ If you have either (or both!) characters limits ready, use them, this will deal 
 | Rewards  |   |   |   |
 |---|---|---|---|
 | EXP  | AP  | Gil  | Item(s)  |
-| 100  | 10  | 100  | Assault Gun  |
+| 290  | 22  | 500  | Ether  |
 
 ![Alt Text To Be Populated](../general-assets/boss-banner.png) 
 
 After beating Reno you’ll get to meet Tseng who is holding Aeris captive. , escape by using the cable Barret grabs. The entire section of the plate crashes down in a nice looking FMV sequence.
- 
- 
  
  
 The party starts out near Wall Market where Barret struggles to come to terms with the loss of his team and worried about his daughter Marlene. Back as Cloud, go up to the wooden stairs and toward the plank, and Tifa and Barret will join you. Quickly head back towards the Wall Market and pick up the “Sense “ materia near the fence and get it equipped.
