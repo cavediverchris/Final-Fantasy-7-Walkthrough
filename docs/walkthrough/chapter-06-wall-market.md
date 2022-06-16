@@ -30,7 +30,7 @@ Talk to Aeris, and pick the bottom option. Follow her until she stops and then t
  
 Once you have entered the Wall Market, head off the screen to the right. Talk to the chubby guy in the vest that's talking to the bouncer. Ask him about Tifa.
 
-![Alt Text To Be Populated](../walkthrough-assets/ch06_01.png)  
+![Alt Text To Be Populated](../walkthrough-assets/ch06_02.png)  
  
 Now go back left and all the way north three screens until you reach a mansion. Talk to the guard here, and Aeris will suggest that you should dress like a girl to get in. Yikes! For some reason, you go along with the idea (I would rather fight my way in.). 
 
